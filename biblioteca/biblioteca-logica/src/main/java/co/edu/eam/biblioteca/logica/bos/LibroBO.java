@@ -4,5 +4,10 @@ public class LibroBO {
 	public LibroBO() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	public void crear(){
+		
+	}
+
 
 }

@@ -5,9 +5,7 @@ public class LibroBO {
 		// TODO Auto-generated constructor stub
 	}
 	
-	public void crear(){
-		
-	}
+	
 
 
 }

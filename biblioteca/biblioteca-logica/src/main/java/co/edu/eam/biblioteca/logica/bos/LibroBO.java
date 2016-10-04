@@ -11,6 +11,8 @@ public class LibroBO {
 		
 	}
 	
-
+	public Libro buscar(String codigo){
+		return null;
+	}
 
 }
